@@ -1,37 +1,11 @@
-## Welcome to GitHub Pages
+## Startup Graveyard email list
 
-You can use the [editor on GitHub](https://github.com/rememberlenny/startupgraveyard.email/edit/gh-pages/index.md) to maintain and preview the content for your website in Markdown files.
+This is a collected list of office space, equitpment, employees, and other collateral from startups that are spinning down.
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+The goal of this website is to help people looking for lower cost office leases, second hand equiptment, or potential hires.
+### How it works
 
-### Markdown
-
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
-
-```markdown
-Syntax highlighted code block
-
-# Header 1
-## Header 2
-### Header 3
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
-
-**Bold** and _Italic_ and `Code` text
-
-[Link](url) and ![Image](src)
-```
-
-For more details see [Basic writing and formatting syntax](https://docs.github.com/en/github/writing-on-github/getting-started-with-writing-and-formatting-on-github/basic-writing-and-formatting-syntax).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/rememberlenny/startupgraveyard.email/settings/pages). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
+This website is hosted on Github and can be updated by anyone via Pull Request. If you don't know how to submit a Pull Request, please ask someone who does.
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://support.github.com/contact) and we’ll help you sort it out.
+Having trouble with the site? Contact Lenny at lenny@milkvideo.com. This is entirely not my focus, so I hope you don't have any problems.
